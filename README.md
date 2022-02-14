@@ -12,3 +12,10 @@ Currently, these topics also interest me, such as the design system and principl
 - 📫 How to reach me: rizukiryumada@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+
+<p align="left">
+  <a href="https://github.com/gilangadhan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryumada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryumada&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</p>
