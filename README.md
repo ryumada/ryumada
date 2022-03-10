@@ -27,7 +27,7 @@ Currently, these topics also interest me, such as the design system and principl
 
 ### Github Statistic
 <p align="left">
-  <a href="https://github.com/gilangadhan">
+  <a href="https://github.com/ryumada">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryumada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryumada&layout=compact&langs_count=8&theme=dracula"/>
   </a>
