@@ -1,14 +1,18 @@
 ### Hi there 👋
 
-Introduce me is ryumada. I am a Backend and Cloud Computing Enthusiast. Currently, I'm learning this topic by joining the Bangkit 2022 program. And I will keep improving myself in this field until I can finally go to the frontend topic to become a Full Stack Engineer.
+I'm ryumada. I am a Backend, Cloud Computing, and Full-stack Enthusiast. I have experience in those three topics. 
 
-Currently, these topics also interest me, such as the design system and principle, clean code, TDD, OOP, and the other programming principle that makes software development more convenient to develop and of course can keep its development in the future.
+I'm passionate about these three topics, especially Backend Development and Cloud Computing. I hone this skill deeper by joining Bangkit 2022 program.
 
-- 🔭 I’m currently working on my thesis to finish my study
-- 🌱 I’m currently learning cloud computing in bangkit 2022 academy
+I will continue to improve myself until I die. I want to contribute to all the things around me and I will try my best to make an impact for them.
+
+These topics also interest me, such as the design system and principle, clean code, TDD, OOP, and the other programming principle that makes software development more convenient to develop and of course can keep its development in the future.
+
+- 🔭 I've finished my study and got a Bachelor of Computer degree in the Information Systems field.
+- 🌱 I'm the Bangkit 2022 alumni in the Cloud Computing learning path.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+- 💬 Ask me about Backend Development, Cloud Computing, Full-stack Development, also System Analysis and Design.
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
