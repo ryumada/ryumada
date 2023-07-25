@@ -23,8 +23,8 @@ These topics also interest me, such as the design system and principle, clean co
 <a href="https://www.javascript.com"><img align="left" alt="JavaScript" title="JavaScript" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" height="37px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
 <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" height="37px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-<a href="https://www.python.org/"><img align="left" alt="Python" title="Python" height="36px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" /></a>
-<a href="https://www.django-rest-framework.org/"><img align="left" alt="DjangoRestFramework" title="DjangoRestFramework" height="36px" src="https://www.django-rest-framework.org/img/logo.png" /></a>
+<a href="https://www.python.org/"><img align="left" alt="Python" title="Python" height="39px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" /></a>
+<a href="https://www.django-rest-framework.org/"><img align="left" alt="DjangoRestFramework" title="DjangoRestFramework" height="39px" src="https://www.django-rest-framework.org/img/logo.png" /></a>
 
 
 <br/>
